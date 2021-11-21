@@ -4,6 +4,7 @@
  */
 
 #include <iostream>
+
 using namespace std;
 
 int main() {
@@ -26,4 +27,6 @@ int main() {
 
     // display result
     cout << "Result: " << result;
+
+    return 0;
 }
